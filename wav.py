@@ -1,3 +1,11 @@
+''''''
+# EC01045 - PROCESSAMENTO DIGITAL DE SINAIS (2024 .4 - T01)
+# Faculdade de Engenharia da Computação e Telecomunicações - Universidade Federal do Pará
+# Professor: Ronaldo de Freitas Zampolo 
+# Aluno: Joao Victor Santos Brito Ferreira
+# Tarefa 1 - Audio Wav
+''''''
+
 from pydub import AudioSegment
 from scipy.io import wavfile
 import matplotlib.pyplot as plt
